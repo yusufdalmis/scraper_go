@@ -1,0 +1,15 @@
+0	https://enable-javascript.com/
+1	https://products.wolframalpha.com/mobile
+2	https://products.wolframalpha.com
+3	https://products.wolframalpha.com/enterprise
+4	https://products.wolframalpha.com/api
+5	https://www.wolfram.com/resources/tools-for-AIs/
+6	https://www.wolfram.com/legal/privacy/wolfram
+7	https://www.wolfram.com
+8	https://www.wolfram.com
+9	https://www.wolfram.com/language
+10	https://www.wolfram.com/mathematica
+11	https://demonstrations.wolfram.com
+12	https://www.wolfram.com/education
+13	https://mathworld.wolfram.com
+14	https://www.wolfram.com/legal/privacy/wolfram
