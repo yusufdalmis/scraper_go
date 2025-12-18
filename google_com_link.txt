@@ -1,0 +1,14 @@
+0	https://mail.google.com/mail/&amp;ogbl
+1	https://www.google.com/imghp?hl=tr&amp;ogbl
+2	https://www.google.com.tr/intl/tr/about/products
+3	https://accounts.google.com/ServiceLogin?hl=tr&amp;passive=true&amp;continue=https://www.google.com/&amp;ec=futura_exp_og_so_72776762_e
+4	https://about.google/?utm_source=google-TR&amp;utm_medium=referral&amp;utm_campaign=hp-footer&amp;fg=1
+5	https://www.google.com/intl/tr_tr/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&amp;utm_source=google.com&amp;utm_medium=referral&amp;utm_campaign=google_hpafooter&amp;fg=1
+6	https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&amp;utm_source=google.com&amp;utm_medium=referral&amp;utm_campaign=google_hpbfooter&amp;fg=1
+7	https://google.com/search/howsearchworks/?fg=1
+8	https://sustainability.google/intl/tr/carbon-free/?utm_source=googlehpfooter&amp;utm_medium=housepromos&amp;utm_campaign=bottom-footer&amp;utm_content=
+9	https://policies.google.com/privacy?hl=tr&amp;fg=1
+10	https://policies.google.com/terms?hl=tr&amp;fg=1
+11	https://www.google.com/preferences?hl=tr&amp;fg=1
+12	https://support.google.com/websearch/?p=ws_results_help&amp;hl=tr&amp;fg=1
+13	https://www.gstatic.com/og/_/ss/k=og.asy.68IT_F-NK08.L.W.O/m=ll_tdm,adcgm3,ll_fw,abld/excm=/d=1/ed=1/ct=zgms/rs=AA2YrTuB9pNk5GDNCjpS0-TPiTc9nq0jFg
